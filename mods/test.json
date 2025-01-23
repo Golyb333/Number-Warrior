@@ -1,0 +1,8 @@
+{
+    "name": "Test mode. delete if you need",
+    "shop_item": {
+        "name": "+10 power",
+        "cost": 30,
+        "effect": "add_power_10"
+    }
+}
